@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="AGM">
+  <Package name="Earbudsr">
+
+    <Key ID="STR_AGM_Earbuds_On">
+      <English>Earplugs in</English>
+      <German>Begrenzer an</German>
+    </Key>
+    <Key ID="STR_AGM_Earbuds_Off">
+      <English>Earplugs out</English>
+      <German>Begrenzer aus</German>
+    </Key>
+	<Key ID="STR_AGM_NoBuds">
+      <English>You have no ear plugs</English>
+      <German>Begrenzer aus</German>
+    </Key>
+
+
+  </Package>
+</Project>
